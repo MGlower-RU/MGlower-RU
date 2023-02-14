@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Danil
-- 👀 I’m interested in Frontend development actually on React
-- 🌱 I’m currently learning React ecosystem
-- 📫 How to reach me: danilkazaharovich@gmail.com
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGlower-RU&hide=stars,contribs&show_icons=true&hide_border=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGlower-RU&hide=stars,contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
