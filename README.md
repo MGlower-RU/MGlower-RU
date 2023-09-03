@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=1AF74B&multiline=true&width=435&lines=Hi+I'm+Danil%F0%9F%A5%9D%F0%9F%91%BB;The+Frontend+Developer%F0%9F%A6%84)](https://git.io/typing-svg)
 
 <!-- GitHub statistics -->
-[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGlower-RU&hide=stars,contribs&show_icons=true&hide_border=true&theme=dracula#gh-dark-mode-only&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGlower-RU&hide=stars,contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- [![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGlower-RU&hide=stars,contribs&show_icons=true&hide_border=true&theme=dracula#gh-dark-mode-only&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGlower-RU&hide=stars,contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 <!-- Tools -->
 <h3 align="left">Languages and Tools:</h3>
